@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+.env
+
+# Airflow
+logs/
+airflow.cfg
+webserver_config.py
+
+# Docker & Compose
+*.log
+*.pid
+*.sock
+
+# Local data output
+data/
+opt/airflow/data/
+*.csv
+*.json
+*.parquet
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db

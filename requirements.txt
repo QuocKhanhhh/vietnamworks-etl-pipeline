@@ -1,0 +1,8 @@
+seaborn
+dvc
+selenium
+selenium-wire
+webdriver-manager
+chromedriver-autoinstaller
+pandas
+requests
